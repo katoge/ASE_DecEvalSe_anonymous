@@ -22,3 +22,10 @@ These scripts merely collect data from function_logs.jsonl and edit_distances.tx
 function_logs.jsonl contains functions and predictions/decompilations by LLM4Decompile and ANGR.
 edit_distances.txt contain relevant code similarity metrics.
 
+Used Decompilers:
+https://github.com/albertan017/LLM4Decompile/tree/main
+https://angr.io/
+
+CodeAlign:
+https://github.com/squaresLab/codealign/tree/main
+
