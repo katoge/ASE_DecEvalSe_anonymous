@@ -1,0 +1,4 @@
+model:LLM4Binary/llm4decompile-6.7b-v2,opt:O0,compile rate:0.9024,run_rate:0.7012
+model:LLM4Binary/llm4decompile-6.7b-v2,opt:O1,compile rate:0.8963,run_rate:0.4817
+model:LLM4Binary/llm4decompile-6.7b-v2,opt:O2,compile rate:0.9146,run_rate:0.4634
+model:LLM4Binary/llm4decompile-6.7b-v2,opt:O3,compile rate:0.8841,run_rate:0.4695
